@@ -30,7 +30,7 @@ Codember es un juego y reto de programación que se realiza en el mes de noviemb
         <img src="https://github.com/user-attachments/assets/a4ac71b3-b8b2-4335-9b38-512c36e1e30a" alt="reto #01" width="30" height="30" />
       </td>
       <td>
-        <a href="/src/challenge-01/README.md"><strong>¡Consigue acceso a la terminal!</strong></a>
+        <a href="/src/challenge-01/README-ES.md"><strong>¡Consigue acceso a la terminal!</strong></a>
       </td>
       <td align="center">
         <a href="/src/challenge-01/index.js">
@@ -39,6 +39,25 @@ Codember es un juego y reto de programación que se realiza en el mes de noviemb
       </td>
       <td align="center">
         <a href="/src/challenge-01/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">02</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/dc7d98fc-3117-480f-bd22-f38c9b1c9302" alt="reto #02" width="25" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-02/README-ES.md"><strong>Detectando acceso no deseado</strong></a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.js">
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.test.js">
           <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>

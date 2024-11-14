@@ -43,6 +43,25 @@ Codember is a programming game and challenge that takes place in November for th
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">02</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/dc7d98fc-3117-480f-bd22-f38c9b1c9302" alt="challenge #02" width="25" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-02/README.md"><strong>Detecting Unauthorized Access</strong></a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.js">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.test.js">
+          <img src="https://img.shields.io/badge/Tests-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
