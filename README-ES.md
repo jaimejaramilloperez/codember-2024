@@ -12,6 +12,40 @@ Mis soluciones a los retos de [Codember](https://codember.dev) 2024 creado por [
 
 Codember es un juego y reto de programación que se realiza en el mes de noviembre para la comunidad de [@midudev](https://github.com/midudev). Cada semana se publica un reto que se debe resolver usando ingenio y programación. Cada reto tiene una explicación del problema y su solución.
 
+## 🎮 Retos
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" colspan="2">#</th>
+      <th align="center">Reto</th>
+      <th align="center">Solución</th>
+      <th align="center">Pruebas unitarias</th>
+    </td>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">01</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a4ac71b3-b8b2-4335-9b38-512c36e1e30a" alt="reto #01" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-01/README.md"><strong>¡Consigue acceso a la terminal!</strong></a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-01/index.js">
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-01/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Instalación y Ejecución
 
 ### Requisitos Previos

@@ -20,7 +20,8 @@
   ],
   "scripts": {
     "lint": "standard",
-    "lint:fix": "standard --fix"
+    "lint:fix": "standard --fix",
+    "challenge1": "node ./src/challenge-01"
   },
   "devDependencies": {
     "standard": "17.1.2"
