@@ -81,6 +81,25 @@ Codember es un juego y reto de programación que se realiza en el mes de noviemb
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">04</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/4f4f1445-d638-4299-bc74-b19689645dea" alt="reto #04" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-04/README-ES.md"><strong>Evitando el caos en la red</strong></a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-04/index.js">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-04/index.test.js">
+          <img src="https://img.shields.io/badge/Tests-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
